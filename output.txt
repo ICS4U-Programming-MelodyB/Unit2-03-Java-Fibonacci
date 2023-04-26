@@ -1,0 +1,5 @@
+The fibonacci sequence of 8 is 21
+The fibonacci sequence of 10 is 55
+The fibonacci sequence of 0 is 0
+Error: Invalid, "no" is not a valid number.
+The fibonacci sequence of 1 is 1
